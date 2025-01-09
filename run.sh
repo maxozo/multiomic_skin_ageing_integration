@@ -1,0 +1,1 @@
+module load apps/binapps/nextflow/24.10.0
